@@ -1,0 +1,43 @@
+a:hover{
+    background: black;
+    color: white
+}
+body{
+    background: #43982F;
+}
+#wrapper{
+    margin:0 auto;
+    background-color: white;
+    width: 800px;
+    height: 1000px;
+}
+header{
+    padding: 0px 0px 10px 0px;
+    }
+
+#horzNav:hover{
+    display: block;
+    background: pink;
+    color: white;
+}
+
+#para-1{
+    word-spacing: 10px;
+}
+#para-2{
+    letter-spacing:0px;
+}
+footer{
+    clear: both;
+    background-color: black;
+    color: white;
+}
+ul{
+    list-style: none;
+}
+ol{
+    list-style-type:lower-alpha;
+}
+#para-3:after{
+    content: "@@@@@@@";
+}
